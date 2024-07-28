@@ -1,1 +1,1 @@
-# Generative-AI
+# Gemini-Application
